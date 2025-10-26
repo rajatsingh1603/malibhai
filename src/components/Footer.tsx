@@ -40,22 +40,18 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-green-500" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 7060489193</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-green-500" />
-                <span>hello@gardenpro.com</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <MapPin className="w-4 h-4 text-green-500 mt-1" />
-                <span>123 Garden Street<br />Green Valley, CA 90210</span>
+                <span>malibhai@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Garden Pro Services. All rights reserved.</p>
+          <p>&copy; 2025 malibhai.in All rights reserved.</p>
         </div>
       </div>
     </footer>

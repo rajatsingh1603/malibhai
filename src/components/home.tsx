@@ -21,7 +21,7 @@ function Home() {
   return (
     <div className="w-full min-h-screen bg-white">
       <Hero onBookVisit={scrollToBooking} onShopPlants={scrollToShop} />
-      <Services onBookConsultation={scrollToBooking} />
+      <Services />
       <div ref={shopRef}>
         <PlantShop />
       </div>
